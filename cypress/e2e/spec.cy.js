@@ -1,3 +1,6 @@
+/// <reference types="cypress" />
+
+
 describe('Tic Tac Toe testing', () => {
   beforeEach(() => {
     // cy.visit('http://localhost:5173')
